@@ -2,7 +2,7 @@ spring:
   application:
     name: TicketBookingServiceRegistry
 server:
-  port: 8761
+  port: 9000
 eureka:
   instance:
     hostname: localhost
